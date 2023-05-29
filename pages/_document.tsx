@@ -5,7 +5,7 @@ export default function Document() {
   return (
     <Html lang="en" data-theme={"pastel"}>
       <Head>
-        <title>Next Tree</title>
+        <title>GusBio</title>
       </Head>
       <body>
         <Main />
