@@ -3,7 +3,7 @@
 
 # Gus Bio
 
-## Next Tree is a website for creating pages that contain a selection of links to other applications or sites
+##  Gus Bio is a website for creating pages that contain a selection of links to other applications or sites
 
 ![mobile](https://github.com/bagussatoto/GusBio/assets/87259393/9829b925-c1b9-4850-8471-55c852e087d4)
 
