@@ -68,7 +68,7 @@ const Register = () => {
         <label className="text-primary">
           Sudah punya akun ?{" "}
           <Link href="/admin/auth/login" className="text-primary-focus">
-            Login
+            Masuk
           </Link>
         </label>
       </div>
