@@ -5,7 +5,17 @@
 
 ##  Gus Bio is a website for creating pages that contain a selection of links to other applications or sites
 
+## Screenshot
 <img src="./public/mobile.png">
+
+<br>
+
+## Demo 
+<img src="./public/link1.gif">
+
+
+
+<br> 
 
 ## Getting Started
 
