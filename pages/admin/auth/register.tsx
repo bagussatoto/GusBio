@@ -79,8 +79,8 @@ const Register = () => {
 Register.getLayout = (page: ReactElement) => {
   return (
     <AuthLayout
-      title="Sign Up"
-      subtitle="Welcome back, please register to your account"
+      title="Mendaftar"
+      subtitle="Selamat datang kembali, silakan mendaftar ke akun Anda"
     >
       {page}
     </AuthLayout>
