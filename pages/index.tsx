@@ -11,9 +11,9 @@ const Home = () => {
           Semuanya. Dalam satu, tautan sederhana dalam bio.
           </h2>
           <p className="text-lg mt-5 text-gray-500">
-          Bergabunglah dengan 35m+ orang yang menggunakan LinkTree untuk tautan mereka di Bio. Satu tautan ke
-             membantu Anda membagikan semua yang Anda buat, kuratori dan jual dari Anda
-             Instagram, Tiktok, Twitter, YouTube dan profil media sosial lainnya.
+          Bergabunglah dengan 35 juta+ orang yang menggunakan untuk tautan mereka di Bio. Satu tautan ke
+          membantu Anda membagikan semua yang Anda buat, kuratori dan jual dari Anda
+          Instagram, Tiktok, Twitter, YouTube dan profil media sosial lainnya.
           </p>
           <div className="flex space-x-5 mt-8">
             <Link href={"/admin/auth/login"} className="btn btn-primary px-10">
