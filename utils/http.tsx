@@ -2,7 +2,7 @@ import axios from "axios";
 import { getCookie } from "cookies-next";
 
 const http = axios.create({
-  baseURL: "",
+  baseURL: "https://linktree.haruthya.my.id/api",
   headers: {
     Accept: "application/json",
   },

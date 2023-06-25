@@ -75,17 +75,17 @@ const Login = () => {
           href="#"
           className="label-text text-primary-focus  border-b border-b-primary-focus"
         >
-          Forgot Password
+          Lupa Password?
         </a>
       </div>
       <button className={`btn btn-primary w-full ${isLoading && "loading"}`}>
-        Login
+        Masuk
       </button>
       <div className="text-center">
         <label className="text-primary">
           Belum punya akun ?{" "}
           <Link href="/admin/auth/register" className="text-primary-focus">
-            Register
+            Daftar
           </Link>
         </label>
       </div>
@@ -96,8 +96,8 @@ const Login = () => {
 Login.getLayout = (page: ReactElement) => {
   return (
     <AuthLayout
-      title="Sign In"
-      subtitle="Welcome back, please login to your account"
+      title="Masuk"
+      subtitle="Selamat datang kembali, silakan masuk ke akun Andat"
     >
       {page}
     </AuthLayout>
