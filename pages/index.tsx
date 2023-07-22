@@ -8,22 +8,22 @@ const Home = () => {
       <div className="flex w-full lg:flex-row lg:justify-between items-center container-fluid">
         <div className="lg:w-6/12">
           <h2 className="text-5xl font-bold leading-normal">
-            Everything you are. In one, simple link in bio.
+          Semuanya. Dalam satu, tautan sederhana dalam bio.
           </h2>
           <p className="text-lg mt-5 text-gray-500">
-            Join 35M+ people using Linktree for their link in bio. One link to
-            help you share everything you create, curate and sell from your
-            Instagram, TikTok, Twitter, YouTube and other social media profiles.
+          Bergabunglah dengan 35 juta+ orang yang menggunakan untuk tautan mereka di Bio. Satu tautan ke
+          membantu Anda membagikan semua yang Anda buat, kuratori dan jual dari Anda
+          Instagram, Tiktok, Twitter, YouTube dan profil media sosial lainnya.
           </p>
           <div className="flex space-x-5 mt-8">
             <Link href={"/admin/auth/login"} className="btn btn-primary px-10">
-              Sign In Now
+              Masuk sekarang
             </Link>
             <Link
               href={"/admin/auth/register"}
               className="btn  btn-outline px-10"
             >
-              Sign Up
+              Mendaftar
             </Link>
           </div>
         </div>

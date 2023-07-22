@@ -68,7 +68,7 @@ const Register = () => {
         <label className="text-primary">
           Sudah punya akun ?{" "}
           <Link href="/admin/auth/login" className="text-primary-focus">
-            Login
+            Masuk
           </Link>
         </label>
       </div>
@@ -79,8 +79,8 @@ const Register = () => {
 Register.getLayout = (page: ReactElement) => {
   return (
     <AuthLayout
-      title="Sign Up"
-      subtitle="Welcome back, please register to your account"
+      title="Mendaftar"
+      subtitle="Selamat datang kembali, silakan mendaftar ke akun Anda"
     >
       {page}
     </AuthLayout>
