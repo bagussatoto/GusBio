@@ -23,7 +23,7 @@
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-hook-form": "^7.52.1",
-    "@tanstack/react-query": "^5.40.0",
+    "@tanstack/react-query": "^5.51.1",
     "react-toast-notifications": "^2.5.1",
     "typescript": "5.4.5"
   },
