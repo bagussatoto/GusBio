@@ -16,7 +16,7 @@
     "axios": "^1.7.1",
     "cookies-next": "^4.2.1",
     "daisyui": "^4.12.10",
-    "eslint": "9.3.0",
+    "eslint": "9.8.0",
     "eslint-config-next": "14.2.3",
     "next": "14.2.3",
     "nprogress": "^0.2.0",
