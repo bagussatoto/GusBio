@@ -17,7 +17,7 @@
     "cookies-next": "^4.2.1",
     "daisyui": "^4.12.10",
     "eslint": "9.10.0",
-    "eslint-config-next": "14.2.9",
+    "eslint-config-next": "14.2.13",
     "next": "14.2.9",
     "nprogress": "^0.2.0",
     "react": "18.3.1",
