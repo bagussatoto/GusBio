@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
-    "@types/node": "22.10.3",
+    "@types/node": "22.10.6",
     "@types/react": "19.0.4",
     "@types/react-dom": "19.0.2",
     "axios": "^1.7.1",
