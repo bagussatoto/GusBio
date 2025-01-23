@@ -11,8 +11,8 @@
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "@types/node": "22.10.3",
-    "@types/react": "19.0.4",
-    "@types/react-dom": "19.0.2",
+    "@types/react": "19.0.8",
+    "@types/react-dom": "19.0.3",
     "axios": "^1.7.1",
     "cookies-next": "^5.0.2",
     "daisyui": "^4.12.10",
