@@ -14,7 +14,7 @@
     "@types/react": "18.3.23",
     "@types/react-dom": "19.1.6",
     "axios": "^1.7.1",
-    "cookies-next": "^6.0.0",
+    "cookies-next": "^5.1.0",
     "daisyui": "^4.12.10",
     "eslint": "9.30.0",
     "eslint-config-next": "15.3.4",
